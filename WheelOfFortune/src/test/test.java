@@ -134,8 +134,6 @@ class test
 
             /*heros.clear();
 
-
-
             BufferedReader in2 = null;
             try {
                 in2 = new BufferedReader(new FileReader("C:\\Users\\andre\\LET_THE_HELL_BEGIN\\src\\useful_files\\words"));
