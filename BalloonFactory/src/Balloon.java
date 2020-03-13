@@ -27,7 +27,6 @@ public class Balloon implements Drawable ,ActionListener{
         width = 70;
         height=80;
         timer.start();
-
         //add(balloon);
 
 
