@@ -1,2 +1,2 @@
 # GUI
-# Graphical User Interface
+Graphical User Interface
